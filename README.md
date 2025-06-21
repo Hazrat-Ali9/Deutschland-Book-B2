@@ -1,5 +1,5 @@
-# Hazrat Ali
+# 🫑 Hazrat Ali
 
-# Programmer || Software Engineering
+# 🍅 Programmer || Software Engineering
 
 # [MIT License](LICENSE)
